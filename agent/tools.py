@@ -118,6 +118,10 @@ TOXIC_FOODS = [
     "Salt — leads to dehydration and kidney failure",
     "Mushrooms — toxic to parrots",
     "Xylitol (sugar substitute) — extremely toxic",
+    "Grapes and raisins — cause acute kidney failure in birds",
+    "Macadamia nuts — toxic to parrots",
+    "Rhubarb leaves — contain oxalic acid, toxic",
+    "Dried or uncooked beans — contain hemagglutinin, toxic",
 ]
 
 
